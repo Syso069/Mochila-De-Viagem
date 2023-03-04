@@ -18,7 +18,8 @@ Para isso, te enviaram um layout no Figma.
 
 ## Layout Desktop
 <div style="display: inline_block"><br>
-<img height="600" alt="Imagem desktop siso hospital" src="https://user-images.githubusercontent.com/94554205/222870807-d7e4fd66-f0b2-406b-b737-d100f8d0123d.png">
+<img height="600" alt="Imagem desktop mochila de viagem" src="https://user-images.githubusercontent.com/94554205/222870807-d7e4fd66-f0b2-406b-b737-d100f8d0123d.png">
+<img height="600" alt="Imagem desktop mochila de viagem" src="https://user-images.githubusercontent.com/94554205/222871203-ee2c124c-0a5c-42b1-9ab8-f48dc9016d81.png">
 </div>
 
 # Tecnologias utilizadas
