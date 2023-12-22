@@ -6,11 +6,7 @@
 
 # Sobre o projeto
 
-> Uma clínica médica te contratou para desenvolver uma página responsiva para que seus médicos e médicas 
-contratados possam ter controle sobre todas suas consultas agendadas, sejam elas presenciais ou remotas (história fictícia).
-Para isso, te enviaram um layout no Figma.
-
-> A aplicação consiste em um site para hospital onde o mesmo busca para seus medicos e medicas controle sobre suas consultas agendadas.
+> A aplicação consiste em um to do list.
 
 # Status do projeto
 
